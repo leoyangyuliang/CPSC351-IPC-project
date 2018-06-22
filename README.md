@@ -35,4 +35,4 @@ credit, and we included it in our "Design_of_Assignment1.pdf"
 
 # Screenshot of one test
 it is in the folder too, called testing_screenshot.png
-![testing_screenshot](/home/leo/Downloads/samplefiles (2)/p1-lyang/testing_screenshot.png)
+![testing_screenshot](https://raw.githubusercontent.com/leoyangyuliang/CPSC351-IPC-project/master/testing_screenshot.png)
